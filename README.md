@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lungelo957
+- 👋 Hi, I’m @Mzwakhe_Mahaye
 - 👀 I’m interested in front end development
 - 🌱 I’m currently learning Web development 
 - 💞️ I’m looking to collaborate on website development 
