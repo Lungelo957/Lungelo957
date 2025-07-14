@@ -1,12 +1,22 @@
-- 👋 Hi, I’m @Mzwakhe_Mahaye
-- 👀 I’m interested in front end development
-- 🌱 I’m currently learning Web development 
-- 💞️ I’m looking to collaborate on website development 
-- 📫 How to reach me lungelomahaye95@gmail.com/ +27677091064
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# 👋 Hello, I'm Mzwakhe Obrey Mahaye
 
-<!---
-Lungelo957/Lungelo957 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I’m a **Front-End Web Developer** passionate about creating modern, responsive, and user-friendly websites. I focus on clean code, elegant designs, and building seamless user experiences with a solid foundation in the core web technologies.
+
+## 🔧 Tech Stack
+- **HTML5**  
+- **CSS3**  
+- **JavaScript (ES6+)**
+- **React JS** (beginner level)
+
+## 📌 Interests
+- Building responsive websites and applications
+- Exploring **JavaScript frameworks** and libraries
+- Learning more about **UI/UX best practices**
+- Improving **web performance and accessibility**
+
+## 📈 Current Goals
+- Deepen my knowledge of **React JS**
+- Master advanced **JavaScript concepts**
+- Build and contribute to open-source projects
+
+> *"Code is like humor. When you have to explain it, it’s bad."*
